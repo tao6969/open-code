@@ -1,3 +1,4 @@
 # open-code
 download
-https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.4.0
+
+https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#downloading-macos-modern-os
